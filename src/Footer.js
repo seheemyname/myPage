@@ -4,7 +4,7 @@ import './App.css';
 
 function Footer() {
     return(
-        <div id="wrap">
+        <div>
         <footer>
             <p>
                 <span> dicer </span> <br/>
