@@ -7,7 +7,6 @@ import Second from './Second';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faAnglesDown } from "@fortawesome/free-solid-svg-icons";
-import {FullPage, Slide} from 'react-full-page';
 import GoTop from './GoTop';
 
 function App() {
